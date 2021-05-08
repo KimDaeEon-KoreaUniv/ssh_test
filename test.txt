@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 new new b1
 aa
 bb
 =======
 new b2
 >>>>>>> ce4d3d7... new b2
+=======
+new new b2
+>>>>>>> 4e2173e... new new b2
